@@ -1,7 +1,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/profclems/glab)](https://goreportcard.com/report/github.com/profclems/glab)
 [![Gitter](https://badges.gitter.im/glabcli/community.svg)](https://gitter.im/glabcli/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-# GLab
+# GLab (v1.7.0)
 GLab is an open source Gitlab Cli tool written in Go (golang) to help work seamlessly with Gitlab from the command line.
 
 ![image](https://user-images.githubusercontent.com/41906128/88968573-0b556400-d29f-11ea-8504-8ecd9c292263.png)
